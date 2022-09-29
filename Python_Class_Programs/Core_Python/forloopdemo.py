@@ -86,7 +86,7 @@ for i in range(1,10):
         print(i)
 
 5) pass keyword : will be seen in Django more.
-                  The pass statement is used as a placeholder for future code.
+                  The pass statement is used as a placeholder for 		  future code.
 ==========================================
 
 for i in range(1,10):
